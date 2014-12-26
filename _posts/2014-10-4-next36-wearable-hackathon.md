@@ -33,7 +33,7 @@ Currently I am attending [Saint Mary's University](http://www.smu.ca/) for a Dou
 
 ### SMU App Contests
 
-I have been privileged to be on both of the winnings teams with my friends, for the two years of the [SMU Mobile App Contest](http://www.smu.ca/academics/science-mobile-app-contest.html).
+I have been privileged to be on both of the winning teams with my friends, for the two years of the [SMU Mobile App Contest](http://www.smu.ca/academics/science-mobile-app-contest.html).
 
 ![app contest]({{ site.url }}/images/next36/smu-app-contest.jpg)
 <br/>
@@ -46,19 +46,44 @@ Left to right: Javian Trotman, Daniel Lockhart, Glavin Wiechert
 
 ## Full-Time Problem Solver
 
-I hope to write many posts later about what I have learned, problems I have come across, and projects I have developed. Until that time that those posts are written, I'd recommend taking a look at my [GitHub Profile](https://github.com/Glavin001) and checking out some of my projects! Always feel free to contact me if you wish to collaborate.
+I hope to write many posts later about what I have learned, problems I have come across, and projects I have developed. Until the time that those posts are written, I'd recommend taking a look at my [GitHub Profile](https://github.com/Glavin001) and checking out some of my projects! Always feel free to contact me if you wish to collaborate.
 
 
 # [The Next 36: 2014 Wearable Tech Hackthon](https://www.eventbrite.ca/e/the-next-36-2014-wearable-tech-hackathon-tickets-12534708651)
 
-A special thank you to [Jason Turner](https://ca.linkedin.com/pub/jason-turner/39/171/136) and everyone else involved at [The Spark Zone](http://thesparkzone.ca/) for giving me the opportunity to participate in yet another awesome hackathon event! 
+A special thank you to [Jason Turner, at SMU,](https://ca.linkedin.com/pub/jason-turner/39/171/136) and everyone else involved at [The Spark Zone](http://thesparkzone.ca/) for giving me the opportunity to participate in yet another awesome hackathon event, held at Google's Toronto Headquarters on October 3/4, 2014.
 
+## An Incredible Experience
+
+The field of technologies is fast-paced and continually changing. The only way we can stay on top of it is to be immersed with others who are passionate about learning for the future. Hackathons are catalysts for sharing ideas and stimulating new thoughts.
+The hackathon, organized by The Next 36, gave us exposure to wearable technologies and an unqiue opporuntity to explore new ways this technology could be used in the future.
+
+![glavin with google glass]({{ site.url }}/images/next36/glavin-google-glass.jpg)
+<br/>
+Glavin Wiechert wearing [Google Glass](https://www.google.ca/glass/start/)!
+
+### [The Next 36](http://www.thenext36.ca/)
+
+> The Next 36 is a resource-rich program designed to nurture the entrepreneurial promise of 36 undergraduates with extraordinary potential each year.
+> ...
+> For seven months, 36 young entrepreneurs are mentored by Canada’s top business leaders, taught by some of the world's top business faculty, and work to earn funding from top venture capitalists. The Next 36 has developed a unique selection process, curriculum and venture development program, which have resulted in immediate national demand from students and unparalleled support from the business, academic and investment community. The program is described by mentors, donors and participants as transformational.
+
+It was an exceptional experience to meet those involved from The Next 36 and hear about their goal. Being an entrepreneur myself, I was excited to be surrounded by individuals who enbraced both technology and business. This is an experience that I hope my fellow students, back home at [Saint Mary's University](http://www.smu.ca/), can share. There is only so much learning that can be done in the classroom. Business networking is very important for those who wish to lead and be a part of the next big thing.
+
+Watch and learn more about The Next 36 with the video below.
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/MPdNPCLboEs" frameborder="0" allowfullscreen></iframe>
+
+
+### We Are Not So Different
+
+One thing I realized when attending this hackathon: we are not so different. By we, I am referring to the many talented and passionate "hackers" who joined in on the fun at this and many other hackathons such as [McHacks](http://mchacks.io/). It was comforting to hear the similar taste and experiences software developers had, even from such a wide range of backgrounds and Universities. For one, [Node.js](http://nodejs.org/) is just as loved by hackers in Ontario as it is by myself and others back home. At McHacks last year, I noticed that many hacks were web applications, including my own. Mobile applications, on iOS and Android, are also very popular. Looking around the Google Headquarters, I could see my teammates from home fitting right in with the crowd at this Next 36 Hackathon. I hoped next time I could bring them with me.
 
 ## Our Hack
 
-The concept behind our hack is to allow automated and seamless networking with people via a gesture as simple as a handshake. The identities were extracted from the [Nymi](https://www.nymi.com/) using each user's unique cardiac rhythm and the handshake gesture was recognized by the [Myo ArmBand](https://www.thalmic.com/en/myo/) sent from our [Android](http://www.android.com/) apps to our live web server for processing. To demonstrate the idea, a simple handshake would automatically trigger an invite for the two respective parties to connect on LinkedIn.
+The concept behind our hack was to allow automated and seamless networking with people via a gesture as simple as a handshake. The identities were extracted from the [Nymi](https://www.nymi.com/) using each user's unique cardiac rhythm and the handshake gesture was recognized by the [Myo ArmBand](https://www.thalmic.com/en/myo/) sent from our [Android](http://www.android.com/) apps to our live web server for processing. To demonstrate the idea, a simple handshake would automatically trigger an invite for the two respective parties to connect on LinkedIn.
 
-## Our Team, Wowwaweewaa
+### Our Team, Wowwaweewaa
 
 ![team]({{ site.url }}/images/next36/team-all.jpg)
 <br/>
@@ -81,32 +106,9 @@ Left to right: (Judge), Glavin Wiechert, Omar Jouda, Azad Memon, Mohammed Babur
 <br/>
 Left to right: (Judge), Rakesh Steve Mistry (touching glasses), Glavin Wiechert, Omar Jouda, Azad Memon, Mohammed Babur
 
-## An Incredible Experience
-
-![glavin with google glass]({{ site.url }}/images/next36/glavin-google-glass.jpg)
-<br/>
-Glavin Wiechert wearing [Google Glass](https://www.google.ca/glass/start/)!
-
-### [The Next 36](http://www.thenext36.ca/)
-
-> The Next 36 is a resource-rich program designed to nurture the entrepreneurial promise of 36 undergraduates with extraordinary potential each year.
-> ...
-> For seven months, 36 young entrepreneurs are mentored by Canada’s top business leaders, taught by some of the world's top business faculty, and work to earn funding from top venture capitalists. The Next 36 has developed a unique selection process, curriculum and venture development program, which have resulted in immediate national demand from students and unparalleled support from the business, academic and investment community. The program is described by mentors, donors and participants as transformational.
-
-It was an exceptional experience to meet those involed from The Next 36 and hear about their goal. Being an entrepreneur myself, I was excited to be surrounded by individuals who enbraced both technology and business. This is an experience that I hope my fellow students, back home at [Saint Mary's University](http://www.smu.ca/), can share. There is only so much learning that can be done in the classroom. Business networking is very important for those who wish to lead and be a part of the next big thing.
-
-Watch and learn more about The Next 36 with the video below.
-
-<iframe width="640" height="360" src="//www.youtube.com/embed/MPdNPCLboEs" frameborder="0" allowfullscreen></iframe>
-
-
-### We Are Not So Different
-
-One thing I realized when attending this hackathon: we are not so different. By we, I am referring to the many talented and passionate "hackers" who joined in on the fun at this and many other hackathons such as [McHacks](http://mchacks.io/). It was comforting to hear the similar taste and experiences software developers had, even from such a wide range of backgrounds and Universities. For one, [Nodejs](http://nodejs.org/) is just as loved by hackers in Ontario as it is by myself and others back home. At McHacks last year, I noced that many hacks were web applications, including my own. Mobile applications, on iOS and Android, are also very popular. Looking around the Google Headquarters, I could see my teammates from home fitting right in with the crowd at this Next 36 Hackathon. I hoped next time I could bring them with me.
-
 # Share Your Experiences!
 
-I would love to hear from anyone who has attended a hackathon in the past, wants to participate in the future, or simply wants to talk Tech. Feel free to send me an message below or via Email, Tweet, InMail, Facebook Message, or write a message in a Pull Request to one of my GitHub projects!
+I would love to hear from anyone who has attended a hackathon in the past, wants to participate in the future, or simply wants to talk Tech. Feel free to send me an message below or via Email, a Twitter Tweet, LinkedIn InMail, Facebook Message, or write a message in your Pull Request to one of my GitHub projects!
 
 ![glavin talking]({{ site.url }}/images/next36/glavin-talking.jpg)
 <br/>
