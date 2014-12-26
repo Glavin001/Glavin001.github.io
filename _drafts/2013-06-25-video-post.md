@@ -5,7 +5,6 @@ description: "Custom written post descriptions are the way to go... if you're no
 tags: [sample post, video]
 comments: true
 share: true
-draft: true
 ---
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/SqYiglufb8Y"> </iframe>
