@@ -1,15 +1,17 @@
-title:            Glavin's Blog
-description:      Glavin Wiechert's Blog.
+title:            "Glavin's Blog"
+description:      "Glavin Wiechert's Blog."
 disqus_shortname: glavin-blog
-#Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              http://localhost:4000
-url:               
+reading_time:     true
+words_per_minute: 150
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:
 
 # Owner/author information
 owner:
   name:           Glavin Wiechert
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "I want to put a ding in the universe."
   email:          glavin.wiechert@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        GlavinW
@@ -21,10 +23,11 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
+  # google plus id, include the '+', eg +mmistakes
   google_plus:   +GlavinWiechert
 
 # Background image to be tiled on all pages
-background: ps_neutral.png
+background: 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-57984473-1
@@ -32,20 +35,16 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-#  - title: Theme Setup
-#    url: /theme-setup
-  - title: +GlavinWiechert
-    url: http://plus.google.com/+GlavinWiechert?rel=author
-    external: true
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Halifax
 future:      true
-pygments:    true
+highlighter: pygments
 markdown:    kramdown
+gems:
+  - jekyll-sitemap
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 # permalink:   /:categories/:title
@@ -69,4 +68,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
